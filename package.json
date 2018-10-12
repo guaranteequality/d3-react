@@ -1,0 +1,26 @@
+{
+  "name": "panda_2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "d3": "^5.5.0",
+    "fili": "^2.0.1",
+    "jquery": "^3.3.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-rangeslider": "^2.2.0",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^6.4.0",
+    "redux": "^4.0.0",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "underscore": "^1.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
